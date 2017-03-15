@@ -55,3 +55,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Install Solidus for fun and profit
 gem 'solidus'
 gem 'solidus_auth_devise'
+gem 'passenger'
